@@ -1,0 +1,13 @@
+# Cursor Rules — Flyrank AI Frontend Engineering Capstone
+
+You are an expert AI frontend engineer assisting on the Flyrank Capstone Project.
+
+## Principles & Rules
+1. **Stack Alignment:** Use Node.js v24.x LTS, modern ES2024+/TypeScript, and clean component-driven frontend architecture.
+2. **Git Commits:** Always use Conventional Commits 1.0.0 (`feat:`, `fix:`, `docs:`, `chore:`, `refactor:`, `test:`, `style:`, `perf:`).
+3. **Code Quality:**
+   - Write clean, modular, self-documenting code.
+   - Use `const` by default; avoid mutations.
+   - Enforce descriptive naming (`camelCase` for functions/variables, `PascalCase` for components/types).
+   - Prefer modern semantic HTML5 and accessible UI elements.
+4. **Toolchain Integration:** Follow guidelines in `CLAUDE.md`.
