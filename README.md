@@ -5,6 +5,11 @@
 ![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-fe5196.svg?logo=conventionalcommits)
 ![AI Assisted](https://img.shields.io/badge/AI%20Toolchain-Claude%20%7C%20Cursor-8A2BE2)
 
+## 📷 Verified screenshot showing Cursor IDE workings
+<img width="1919" height="1017" alt="Screenshot 2026-10-08 194610" src="https://github.com/user-attachments/assets/daca0aa2-2c52-4620-817a-6f52dd6d590d" />
+
+---
+
 > 🚀 **Phase 1: Environment Setup & AI Toolchain**  
 > Capstone repository for the Flyrank AI Frontend Engineering Internship track.
 
